@@ -131,6 +131,7 @@ module.exports = {
 					sidebarDepth: 1,
 					children: [
 						'CUSTOM-CONTROLS', // Customizing the on-screen controls
+                        'LOGS', // Accessing logs
 						'OPTIMIZATION', // Optimizing the game
 						'MODDED-MC', // Modded Minecraft!
 						'MODPACKS', // Everything you need to know about Modpacks support
